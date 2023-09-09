@@ -11,6 +11,16 @@
   "commitConvention": "angular",
   "contributors": [
     {
+
+      "login": "nvbinhsoft",
+      "name": "Binh Nguyen Van",
+      "avatar_url": "https://avatars.githubusercontent.com/u/125584665?v=4",
+      "profile": "https://github.com/nvbinhsoft",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
       "login": "ndmanh2",
       "name": "ndmanh2",
       "avatar_url": "https://avatars.githubusercontent.com/u/110186578?v=4",
