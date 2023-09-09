@@ -9,7 +9,17 @@
   "imageSize": 100,
   "commit": true,
   "commitConvention": "angular",
-  "contributors": [],
+  "contributors": [
+    {
+      "login": "nvbinhsoft",
+      "name": "Binh Nguyen Van",
+      "avatar_url": "https://avatars.githubusercontent.com/u/125584665?v=4",
+      "profile": "https://github.com/nvbinhsoft",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
   "contributorsPerLine": 7,
   "linkToUsage": true
 }
