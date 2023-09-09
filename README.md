@@ -13,6 +13,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/nvbinhsoft"><img src="https://avatars.githubusercontent.com/u/125584665?v=4?s=100" width="100px;" alt="Binh Nguyen Van"/><br /><sub><b>Binh Nguyen Van</b></sub></a><br /><a href="https://github.com/manhnd/contributor/commits?author=nvbinhsoft" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ndmanh2"><img src="https://avatars.githubusercontent.com/u/110186578?v=4?s=100" width="100px;" alt="ndmanh2"/><br /><sub><b>ndmanh2</b></sub></a><br /><a href="https://github.com/manhnd/contributor/commits?author=ndmanh2" title="Code">💻</a></td>
     </tr>
   </tbody>
   <tfoot>
